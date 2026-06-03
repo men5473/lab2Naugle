@@ -1,6 +1,6 @@
 public enum Combat {
     UNBOTHERED,
     ALERT,
-    ATTCKING,
+    ATTACKING,
     ENRAGED
 }
